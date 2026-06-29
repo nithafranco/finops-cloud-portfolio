@@ -5,3 +5,4 @@ A tiny but growing portfolio where I document FinOps, cloud cost management and 
 ## FinOps Concepts
 
 - [Inform](01-finops-concepts/inform.md)
+- [Optimize](01-finops-concepts/optimize.md)
